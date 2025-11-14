@@ -1,0 +1,15 @@
+Denne guide forklarer et Pick&Place program med integreret vision, og  hele opsætningen af følgende enheder:
+
+- Sick InspectorP62.
+- UR3e.
+-TIA Portal.
+
+
+Følgende steps er blevet lavet:
+
+1) Opsæt profinet forbindelse mellem Siemens PLC --> UR3e --> Sick InspectorP62.
+ - Profinet forbindelsen melllem vores PLC og UR3e kan oprettes ved hjælp af min anden guide. (https://github.com/Nicolai-Abildgaard/Profinet-guide-UR)
+
+2) Næste step er opsætning af Sick Inspectorp62. 
+ - Download Sick AppManager.
+ - Åben nu programmet, og følgende vindue kommer frem: 
