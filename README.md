@@ -11,7 +11,7 @@ Følgende steps er blevet lavet:
  - Profinet forbindelsen melllem vores PLC og UR3e kan oprettes ved hjælp af min anden guide. (https://github.com/Nicolai-Abildgaard/Profinet-guide-UR)
 
 
-2) Opsætning af Sick InspectorP62 i .
+2) Opsætning af Sick InspectorP62 i TIA .
  - Tilslut kameraet til 24 V/DC. 
  - Download Sick AppManager.
  - Åben nu programmet, og følgende vindue kommer frem: <img width="1023" height="800" alt="Sick Appspace 1" src="https://github.com/user-attachments/assets/32e4acd8-8fcc-4020-86e4-2062bc47b657" />
